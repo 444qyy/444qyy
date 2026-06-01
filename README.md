@@ -85,18 +85,15 @@ OPEN FOR  → Collab · Open Source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=444qyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f2e&title_color=5b9bd5&icon_color=5b9bd5&text_color=a8d4ff&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=444qyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=444qyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f2e&title_color=5b9bd5&text_color=a8d4ff&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=444qyy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=444qyy&theme=tokyonight&hide_border=true&background=0a0f2e&ring=5b9bd5&fire=a8d4ff&currStreakLabel=5b9bd5&sideLabels=5b9bd5&dates=a8d4ff&currStreakNum=a8d4ff&sideNums=a8d4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=444qyy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
 ## 〔 ACTIVITY GRAPH 〕
 
 <div align="center">
