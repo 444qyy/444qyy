@@ -3,7 +3,7 @@
 # Hi there, I'm Rifqi 👋
 
 <!-- Cyber Banner -->
-![banner](https://raw.githubusercontent.com/444qyy/444qyy/main/banner.svg)
+![banner](https://github.com/444qyy/444qyy/blob/main/banner.svg?raw=true)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+from+Bandung+🇮🇩;Building+clean+%26+elegant+web+apps;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Laravel;Always+learning%2C+always+building...)](https://git.io/typing-svg)
