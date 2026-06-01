@@ -28,18 +28,11 @@ Follow my GitHub & ⭐ star the repos — more projects coming. See you there!
 
 ## 〔 WHOAMI 〕
 
-```bash
-┌──(444qyy㉿github)-[~]                    ┌──(444qyy㉿github)-[~]
-└─$ whoami --verbose                        └─$ cat focus.txt
+<div align="center">
 
-  UID       → Rifqi Maftuh Fuadi              LANGUAGES → JS · PHP · CSS · HTML
-  LOCATION  → Bandung, West Java, ID 🇮🇩      TOOLS     → VS Code · Git · MySQL
-  ROLE      → Full Stack Web Dev              FOCUS     → Web · UI · Open Source
-  PRINCIPLE → "Write code humans can read."   NOW       → [ Learning ] [ Building ]
-  STATUS    → 🟢 ONLINE                       OPEN FOR  → Collab · Open Source
-```
+![whoami](https://github.com/444qyy/444qyy/blob/main/whoami.svg?raw=true)
 
----
+</div>
 
 ## 〔 TECH STACK 〕
 
