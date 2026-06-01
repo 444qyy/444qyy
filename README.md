@@ -28,40 +28,16 @@ Follow my GitHub & ⭐ star the repos — more projects coming. See you there!
 
 ## 〔 WHOAMI 〕
 
-<table width="100%">
-<tr>
-<td width="100%">
-
 ```bash
-┌──(444qyy㉿github)-[~]
-└─$ whoami --verbose
-```
-```yaml
-UID       → Rifqi Maftuh Fuadi
-LOCATION  → Bandung, West Java, ID 🇮🇩
-ROLE      → Full Stack Web Dev
-PRINCIPLE → "Write code humans can read."
-STATUS    → 🟢 ONLINE
-```
+┌──(444qyy㉿github)-[~]                    ┌──(444qyy㉿github)-[~]
+└─$ whoami --verbose                        └─$ cat focus.txt
 
-</td>
-<td width="100%">
-
-```bash
-┌──(444qyy㉿github)-[~]
-└─$ cat focus.txt
+  UID       → Rifqi Maftuh Fuadi              LANGUAGES → JS · PHP · CSS · HTML
+  LOCATION  → Bandung, West Java, ID 🇮🇩      TOOLS     → VS Code · Git · MySQL
+  ROLE      → Full Stack Web Dev              FOCUS     → Web · UI · Open Source
+  PRINCIPLE → "Write code humans can read."   NOW       → [ Learning ] [ Building ]
+  STATUS    → 🟢 ONLINE                       OPEN FOR  → Collab · Open Source
 ```
-```yaml
-LANGUAGES → JS · PHP · CSS · HTML
-TOOLS     → VS Code · Git · MySQL
-FOCUS     → Web · UI · Open Source
-NOW       → [ Learning ] [ Building ]
-OPEN FOR  → Collab · Open Source
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
