@@ -28,9 +28,9 @@ Follow my GitHub & ⭐ star the repos — more projects coming. See you there!
 
 ## 〔 WHOAMI 〕
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%">
 
 ```bash
 ┌──(444qyy㉿github)-[~]
@@ -45,7 +45,7 @@ STATUS    → 🟢 ONLINE
 ```
 
 </td>
-<td>
+<td width="50%">
 
 ```bash
 ┌──(444qyy㉿github)-[~]
@@ -87,22 +87,34 @@ OPEN FOR  → Collab · Open Source
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=444qyy&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=444qyy&theme=tokyonight" height="165"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=444qyy&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=444qyy&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=444qyy&theme=tokyonight" width="49%"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=444qyy&theme=tokyonight" height="165"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=444qyy&theme=tokyonight&utcOffset=7" height="165"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=444qyy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=444qyy&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
+---
+
+## 〔 ACTIVITY GRAPH 〕
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=444qyy&bg_color=0a0f2e&color=5b9bd5&line=1a3a8f&point=a8d4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 〔 CONTRIBUTION SNAKE 〕
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/444qyy/444qyy/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 
 ## 〔 CONNECT WITH ME 〕
 
@@ -120,5 +132,7 @@ OPEN FOR  → Collab · Open Source
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2157,50:0a1628,100:0d0d0d&height=100&section=footer)
+
+*「 Crafted with 💙 from Bandung, Indonesia 🇮🇩 」*
 
 </div>
