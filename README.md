@@ -30,7 +30,7 @@ Follow my GitHub & ⭐ star the repos — more projects coming. See you there!
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="100%">
 
 ```bash
 ┌──(444qyy㉿github)-[~]
@@ -45,7 +45,7 @@ STATUS    → 🟢 ONLINE
 ```
 
 </td>
-<td width="50%">
+<td width="100%">
 
 ```bash
 ┌──(444qyy㉿github)-[~]
@@ -106,16 +106,6 @@ OPEN FOR  → Collab · Open Source
 
 ---
 
-## 〔 CONTRIBUTION SNAKE 〕
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/444qyy/444qyy/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 〔 CONNECT WITH ME 〕
 
 <div align="center">
@@ -129,10 +119,4 @@ OPEN FOR  → Collab · Open Source
 
 ---
 
-<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2157,50:0a1628,100:0d0d0d&height=100&section=footer)
-
-*「 Crafted with 💙 from Bandung, Indonesia 🇮🇩 」*
-
-</div>
