@@ -85,9 +85,11 @@ OPEN FOR  → Collab · Open Source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=444qyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=444qyy&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=444qyy&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=444qyy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=444qyy&theme=tokyonight" height="165"/>
 
 <br/><br/>
 
