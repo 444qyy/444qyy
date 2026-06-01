@@ -91,20 +91,18 @@ OPEN FOR  → Collab · Open Source
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=444qyy&theme=tokyonight" height="165"/>
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=444qyy&theme=tokyonight" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=444qyy&theme=tokyonight&utcOffset=7" height="165"/>
+
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=444qyy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-## 〔 ACTIVITY GRAPH 〕
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=444qyy&bg_color=0a0f2e&color=5b9bd5&line=1a3a8f&point=a8d4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 〔 CONNECT WITH ME 〕
 
