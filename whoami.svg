@@ -1,0 +1,52 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #161b22; }
+      .border { fill: none; stroke: #21262d; stroke-width: 1; }
+      .divider { stroke: #21262d; stroke-width: 1; }
+      .header { font-family: monospace; font-size: 11px; fill: #5b9bd5; }
+      .key { font-family: monospace; font-size: 11px; fill: #5b9bd5; }
+      .arrow { font-family: monospace; font-size: 11px; fill: #00b4d8; }
+      .val { font-family: monospace; font-size: 11px; fill: #c9d1d9; }
+      .online { font-family: monospace; font-size: 11px; fill: #3fb950; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" class="bg" rx="6"/>
+  <rect width="800" height="200" class="border" rx="6"/>
+
+  <!-- Vertical dividers -->
+  <line x1="266" y1="10" x2="266" y2="190" class="divider"/>
+  <line x1="533" y1="10" x2="533" y2="190" class="divider"/>
+
+  <!-- === COL 1 === -->
+  <text x="16" y="30" class="header">┌──(444qyy㉿github)-[~]</text>
+  <text x="16" y="46" class="header">└─$ whoami --verbose</text>
+
+  <text x="16" y="72" class="key">UID      </text><text x="84" y="72" class="arrow">→</text><text x="96" y="72" class="val">Rifqi Maftuh Fuadi</text>
+  <text x="16" y="90" class="key">LOCATION </text><text x="84" y="90" class="arrow">→</text><text x="96" y="90" class="val">Bandung, ID 🇮🇩</text>
+  <text x="16" y="108" class="key">ROLE     </text><text x="84" y="108" class="arrow">→</text><text x="96" y="108" class="val">Full Stack Web Dev</text>
+  <text x="16" y="126" class="key">PRINCIPLE</text><text x="84" y="126" class="arrow">→</text><text x="96" y="126" class="val">Clean code always</text>
+  <text x="16" y="144" class="key">STATUS   </text><text x="84" y="144" class="arrow">→</text><text x="96" y="144" class="online">🟢 ONLINE</text>
+
+  <!-- === COL 2 === -->
+  <text x="282" y="30" class="header">┌──(444qyy㉿github)-[~]</text>
+  <text x="282" y="46" class="header">└─$ cat focus.txt</text>
+
+  <text x="282" y="72" class="key">LANGUAGES</text><text x="350" y="72" class="arrow">→</text><text x="362" y="72" class="val">JS · PHP · CSS · HTML</text>
+  <text x="282" y="90" class="key">TOOLS    </text><text x="350" y="90" class="arrow">→</text><text x="362" y="90" class="val">VSCode · Git · MySQL</text>
+  <text x="282" y="108" class="key">FOCUS    </text><text x="350" y="108" class="arrow">→</text><text x="362" y="108" class="val">Web · UI · Open Source</text>
+  <text x="282" y="126" class="key">NOW      </text><text x="350" y="126" class="arrow">→</text><text x="362" y="126" class="val">[Learning] [Building]</text>
+  <text x="282" y="144" class="key">OPEN FOR </text><text x="350" y="144" class="arrow">→</text><text x="362" y="144" class="val">Collab · Open Source</text>
+
+  <!-- === COL 3 === -->
+  <text x="549" y="30" class="header">┌──(444qyy㉿github)-[~]</text>
+  <text x="549" y="46" class="header">└─$ cat goals.txt</text>
+
+  <text x="549" y="72" class="key">GOAL     </text><text x="617" y="72" class="arrow">→</text><text x="629" y="72" class="val">Be Top Developer</text>
+  <text x="549" y="90" class="key">DREAM    </text><text x="617" y="90" class="arrow">→</text><text x="629" y="90" class="val">Build SaaS Product</text>
+  <text x="549" y="108" class="key">MOTTO    </text><text x="617" y="108" class="arrow">→</text><text x="629" y="108" class="val">Never Stop Learning</text>
+  <text x="549" y="126" class="key">FUN FACT </text><text x="617" y="126" class="arrow">→</text><text x="629" y="126" class="val">Debug with console.log</text>
+  <text x="549" y="144" class="key">STATUS   </text><text x="617" y="144" class="arrow">→</text><text x="629" y="144" class="val">Growing 🚀</text>
+</svg>
